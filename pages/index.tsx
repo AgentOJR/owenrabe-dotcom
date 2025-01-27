@@ -1,5 +1,6 @@
 // pages/index.tsx
 import type { NextPage } from "next";
+import Link from "next/link";
 import Layout from "../components/Layout";
 
 const Home: NextPage = () => {
@@ -16,12 +17,11 @@ const Home: NextPage = () => {
             I specialize in building modern, high-performance web experiences,
             and dabble in building all sorts of systems.
           </p>
-          <a
-            href="/projects"
-            className="inline-block bg-white text-primary px-6 py-3 rounded-md font-semibold hover:bg-opacity-90 transition"
-          >
-            View My Projects
-          </a>
+          <Link href="/projects">
+            <a className="inline-block bg-white text-primary px-6 py-3 rounded-md font-semibold hover:bg-opacity-90 transition">
+              View My Projects
+            </a>
+          </Link>
         </div>
       </section>
 

@@ -17,7 +17,7 @@ const Home: NextPage = () => {
             I specialize in building modern, high-performance web experiences,
             and dabble in building all sorts of systems.
           </p>
-          <Link href="/projects">
+          <Link legacyBehavior href="/projects">
             <a className="inline-block bg-white text-primary px-6 py-3 rounded-md font-semibold hover:bg-opacity-90 transition">
               View My Projects
             </a>

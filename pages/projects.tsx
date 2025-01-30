@@ -41,7 +41,7 @@ const Projects: NextPage = () => {
               A personal experiment in React + Next.js...
             </p>
             <a
-              href="#"
+              href="owenrabe.com"
               className="text-secondary font-semibold hover:underline"
             >
               View Details

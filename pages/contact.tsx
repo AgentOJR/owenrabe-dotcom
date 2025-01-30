@@ -15,7 +15,7 @@ const Contact: NextPage = () => {
             <span className="font-semibold">Email: </span>
             <a
               className="text-blue-600 dark:text-blue-400 hover:underline"
-              href="mailto:youremail@example.com"
+              href="mailto:owen.rabe@icloud.com"
             >
               owen.rabe@icloud.com
             </a>
@@ -24,18 +24,18 @@ const Contact: NextPage = () => {
             <span className="font-semibold">LinkedIn: </span>
             <a
               className="text-blue-600 dark:text-blue-400 hover:underline"
-              href="https://www.linkedin.com/in/yourprofile"
+              href="https://www.linkedin.com/in/owen-rabe"
               target="_blank"
               rel="noopener noreferrer"
             >
-              linkedin.com/in/yourprofile
+              linkedin.com/in/owen-rabe
             </a>
           </div>
           <div>
             <span className="font-semibold">GitHub: </span>
             <a
               className="text-blue-600 dark:text-blue-400 hover:underline"
-              href="https://github.com/yourgithub"
+              href="https://github.com/agentojr"
               target="_blank"
               rel="noopener noreferrer"
             >

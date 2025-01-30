@@ -10,7 +10,7 @@ const Projects: NextPage = () => {
         <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
           {/* Project Card 1 */}
           <div className="bg-white dark:bg-gray-700 rounded-lg shadow p-6 hover:shadow-lg transition">
-            <h3 className="text-xl font-semibold mb-2">Project A</h3>
+            <h3 className="text-xl font-semibold mb-2">destiny2power.com</h3>
             <p className="text-gray-600 dark:text-gray-300 mb-4">
               A progress checking webapp, integrated with the Destiny 2 API...
             </p>
@@ -23,7 +23,7 @@ const Projects: NextPage = () => {
           </div>
           {/* Project Card 2 */}
           <div className="bg-white dark:bg-gray-700 rounded-lg shadow p-6 hover:shadow-lg transition">
-            <h3 className="text-xl font-semibold mb-2">Project B</h3>
+            <h3 className="text-xl font-semibold mb-2">Password Manager</h3>
             <p className="text-gray-600 dark:text-gray-300 mb-4">
               A Simple POC password manager...
             </p>
@@ -36,7 +36,7 @@ const Projects: NextPage = () => {
           </div>
           {/* Project Card 3 */}
           <div className="bg-white dark:bg-gray-700 rounded-lg shadow p-6 hover:shadow-lg transition">
-            <h3 className="text-xl font-semibold mb-2">Project C</h3>
+            <h3 className="text-xl font-semibold mb-2">owenrabe.com</h3>
             <p className="text-gray-600 dark:text-gray-300 mb-4">
               A personal experiment in React + Next.js...
             </p>

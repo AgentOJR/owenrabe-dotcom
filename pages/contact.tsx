@@ -24,7 +24,7 @@ const Contact: NextPage = () => {
             <span className="font-semibold">LinkedIn: </span>
             <a
               className="text-blue-600 dark:text-blue-400 hover:underline"
-              href="https://www.linkedin.com/in/owen-rabe"
+              href="https://www.linkedin.com/in/owen-rabe-ab853b349/"
               target="_blank"
               rel="noopener noreferrer"
             >

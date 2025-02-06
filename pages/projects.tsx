@@ -15,7 +15,7 @@ const Projects: NextPage = () => {
               A progress checking webapp, integrated with the Destiny 2 API...
             </p>
             <a
-              href="#"
+              href="https://destiny2power.vercel.app/"
               className="text-secondary font-semibold hover:underline"
             >
               View Details

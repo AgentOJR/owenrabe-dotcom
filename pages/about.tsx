@@ -17,10 +17,10 @@ const About: NextPage = () => {
         "Led a small team to design, ship, and iterate on an analytics dashboard for the Destiny 2 community—leaning on Next.js, edge rendering, and data visualisation.",
     },
     {
-      year: "2019–2021",
+      year: "2019–Ongoing",
       title: "Academic foundations",
       description:
-        "Studied Computer Science at Wilfrid Laurier University while experimenting with Java, systems programming, and the human side of software delivery.",
+        "Studying Computer Science at Wilfrid Laurier University while experimenting with Java, systems programming, and the human side of software delivery.",
     },
     {
       year: "2016",

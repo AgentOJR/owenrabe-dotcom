@@ -5,10 +5,10 @@ import Layout from "../components/Layout";
 const About: NextPage = () => {
   const timeline = [
     {
-      year: "2024",
-      title: "Scaling thoughtful experiences",
+      year: "2025",
+      title: "IT Technician Co-Op",
       description:
-        "Partnering with teams to ship resilient products, build shared tooling, and mentor engineers across the stack.",
+        "Collaborating with a team to support the IT needs of WRHN as they undergo modernization to Windows 11 Systems, and migrate do a new domain.",
     },
     {
       year: "2022–2023",
